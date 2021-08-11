@@ -2,13 +2,13 @@
 
 This is a program which retrieve the comments from a particular YouTube Video useing the YouTube Data Api V3.
 
-Requirements:
+**Requirements:**
 
 Python 3.4+ (PyPy supported)
 Make you have installed the following libraries:
     1.dotenv
     
-Usage:
+**Usage:**
 
 To start you will have to first register your application in Google Cloud Console. To register check https://console.cloud.google.com.
 
